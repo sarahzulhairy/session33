@@ -1,0 +1,23 @@
+* { font-family: Arial;}
+
+body {
+  color: blue;
+  background-color: #E6E6FA;
+  border: 1px solid black;
+}
+h1 {
+  color: #1919170;
+  font-family: Times New Roman;
+}
+h2 {
+  border: 3px dashed blue;
+}
+
+.classforContact {
+  color: #291970;
+  border: 3px dashed blue;
+}
+
+#IDselector {
+  background-color: #591970;
+}
